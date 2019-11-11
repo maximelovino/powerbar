@@ -9,7 +9,7 @@
 1. Clone this repo to your Übersicht widgets directory.
 
 ```bash
-$ git clone https://github.com/ajdnik/powerbar $HOME/Library/Application\ Support/Übersicht/widgets/powerbar
+$ git clone https://github.com/maximelovino/powerbar $HOME/Library/Application\ Support/Übersicht/widgets/powerbar
 ```
 
 2. Make sure you've got [yabai](https://koekeishiya.github.io/yabai/) installed if you wish to use desktop support.
