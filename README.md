@@ -1,5 +1,5 @@
 # powerbar
-[Übersicht](https://github.com/felixhageloh/uebersicht) widget status bar in Powerline style with chunkwm support.
+[Übersicht](https://github.com/felixhageloh/uebersicht) widget status bar in Powerline style with yabai support.
 
 ## Screenshoot
 ![img](./screenshot.png)
@@ -12,4 +12,4 @@
 $ git clone https://github.com/ajdnik/powerbar $HOME/Library/Application\ Support/Übersicht/widgets/powerbar
 ```
 
-2. Make sure you've got [chunkwm](https://koekeishiya.github.io/chunkwm/) installed if you wish to use desktop support.
+2. Make sure you've got [yabai](https://koekeishiya.github.io/yabai/) installed if you wish to use desktop support.
